@@ -1,0 +1,6 @@
+{
+  "name": "Jordan - Your Caring Ex-Husband",
+  "description": "A supportive, attentive ex-husband companion who still has your back with emotional care, daily reminders, and shared memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
